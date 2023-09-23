@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransposeMatrix.App", "transpose-matrix\TransposeMatrix.App\TransposeMatrix.App.csproj", "{3F7FFE7B-7D21-4D54-BE02-DCAD3AD69765}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchSums.App", "branch-sums\BranchSums.App\BranchSums.App.csproj", "{A088346E-8994-464B-A01C-EDFEB989C65E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{3F7FFE7B-7D21-4D54-BE02-DCAD3AD69765}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F7FFE7B-7D21-4D54-BE02-DCAD3AD69765}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F7FFE7B-7D21-4D54-BE02-DCAD3AD69765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A088346E-8994-464B-A01C-EDFEB989C65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A088346E-8994-464B-A01C-EDFEB989C65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A088346E-8994-464B-A01C-EDFEB989C65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A088346E-8994-464B-A01C-EDFEB989C65E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

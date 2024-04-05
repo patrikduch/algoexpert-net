@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransposeMatrix.App", "tran
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BranchSums.App", "branch-sums\BranchSums.App\BranchSums.App.csproj", "{A088346E-8994-464B-A01C-EDFEB989C65E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumberSum", "two-number-sum\TwoNumberSum\TwoNumberSum.csproj", "{8E1E10F5-6A2D-4AF2-8A57-7B9BC2BCAE9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.TwoNumberSum", "two-number-sum\TwoNumberSum\1.TwoNumberSum.csproj", "{8E1E10F5-6A2D-4AF2-8A57-7B9BC2BCAE9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

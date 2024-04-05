@@ -2,7 +2,6 @@
 
 public class TaskAssignment
 {
-
     public static int[] TwoNumberSum(int[] array, int targetSum)
     {
         Dictionary<int, bool> dict = new Dictionary<int, bool>();

@@ -2,10 +2,10 @@
 
 using BubbleSort;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("22. BubbleSort");
 
 
-var test = TaskAssignment.BubbleSort(new int[] {1,5,2});
+var test = TaskAssignment.BubbleSort(new[] {1,5,2});
 
 foreach (var element in test)
 {

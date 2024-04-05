@@ -16,10 +16,10 @@ public class TaskAssignment
                 return new[] { item, potentialMatch };
             }
 
-            dict[potentialMatch] = true;
+            dict[item] = true;
 
         }
 
-        return new int[] { };
+        return new int[]{};
     }
 }
